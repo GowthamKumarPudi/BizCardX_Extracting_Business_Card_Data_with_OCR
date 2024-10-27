@@ -1,5 +1,13 @@
 # BizCardX_Extracting_Business_Card_Data_with_OCR
 
+NAME : GOWTHAM KUMAR PUDI
+
+LinkedIn: https://www.linkedin.com/posts/gowtham-kumar-pudi07_capstoneproject-bizcardx-ocr-activity-7256298972015742976-gXXK?utm_source=share&utm_medium=member_desktop
+
+BATCH: DW73
+
+DOMAIN : DATA SCIENCE
+
 Problem Statement:
 
 You have been tasked with developing a Streamlit application that allows users to
